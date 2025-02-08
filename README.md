@@ -46,9 +46,6 @@ This project focuses on detecting craters on the lunar and Martian surfaces usin
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork, submit issues or open a pull request.
 
-## 📜 License
-This project is open-source under the **MIT License**.
-
 ## 📬 Contact
 For inquiries or collaborations, contact: **srihemanataraj@gmail.com**
 
